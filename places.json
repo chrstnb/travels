@@ -1,0 +1,998 @@
+eqfeed_callback({
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4194155,37.7749295 ]
+    },
+    "properties": {
+    "State":"CA",
+    "Locations":"San Fransisco, CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.434178,38.849347 ]
+    },
+    "properties": {
+    "State":"MO",
+    "Locations":"Kansas City, MO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.6707917,38.9822282 ]
+    },
+    "properties": {
+    "State":"KS",
+    "Locations":"Overland Park, KS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2922989,37.2089572 ]
+    },
+    "properties": {
+    "State":"MO",
+    "Locations":"Springfield, MO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2185144,36.6436731 ]
+    },
+    "properties": {
+    "State":"MO",
+    "Locations":"Branson, MO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1994042,38.6270025 ]
+    },
+    "properties": {
+    "State":"MO",
+    "Locations":"St. Louis, MO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.1574263,36.0625795 ]
+    },
+    "properties": {
+    "State":"AR",
+    "Locations":"Fayetteville, AR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.877882,32.3526456 ]
+    },
+    "properties": {
+    "State":"MO",
+    "Locations":"Vicksburg, MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0715323,29.9510658 ]
+    },
+    "properties": {
+    "State":"LA",
+    "Locations":"New Orleans, LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.0398912,30.6953657 ]
+    },
+    "properties": {
+    "State":"AL",
+    "Locations":"Mobile, AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.2999689,32.3668052 ]
+    },
+    "properties": {
+    "State":"AL",
+    "Locations":"Montgomerey, AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.80249,33.5206608 ]
+    },
+    "properties": {
+    "State":"AL",
+    "Locations":"Birmingham, AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7816016,36.1626638 ]
+    },
+    "properties": {
+    "State":"TN",
+    "Locations":"Nashville, TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.6000478,37.0833893 ]
+    },
+    "properties": {
+    "State":"KY",
+    "Locations":"Paducah, KY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6297982,41.8781136 ]
+    },
+    "properties": {
+    "State":"IL",
+    "Locations":"Chicago, IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.6091064,41.6005448 ]
+    },
+    "properties": {
+    "State":"IA",
+    "Locations":"Des Moines, IA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.5301683,41.6611277 ]
+    },
+    "properties": {
+    "State":"IA",
+    "Locations":"Iowa City, IA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3788108,43.1435564 ]
+    },
+    "properties": {
+    "State":"IA",
+    "Locations":"Clear Lake, IA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.6656232,41.9778795 ]
+    },
+    "properties": {
+    "State":"IA",
+    "Locations":"Cedar Rapids, IA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2650108,44.977753 ]
+    },
+    "properties": {
+    "State":"MN",
+    "Locations":"Minneapolis, MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.9064736,43.0389025 ]
+    },
+    "properties": {
+    "State":"WI",
+    "Locations":"Milwaukee, WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.9979883,41.2523634 ]
+    },
+    "properties": {
+    "State":"NE",
+    "Locations":"Omaha, NE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.330053,37.6871761 ]
+    },
+    "properties": {
+    "State":"KS",
+    "Locations":"Wichita, KS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.6890185,39.0558235 ]
+    },
+    "properties": {
+    "State":"KS",
+    "Locations":"Topeka, KS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.2352501,38.9716689 ]
+    },
+    "properties": {
+    "State":"KS",
+    "Locations":"Lawrence, KS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.992775,36.1539816 ]
+    },
+    "properties": {
+    "State":"OK",
+    "Locations":"Tulsa, OK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.1466695,31.549333 ]
+    },
+    "properties": {
+    "State":"TX",
+    "Locations":"Waco, TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0740373,33.4483771 ]
+    },
+    "properties": {
+    "State":"AZ",
+    "Locations":"Phoenix, AZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.937799,35.6869752 ]
+    },
+    "properties": {
+    "State":"NM",
+    "Locations":"Santa Fe, NM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1398296,36.1699412 ]
+    },
+    "properties": {
+    "State":"NV",
+    "Locations":"Las Vegas, NV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1610838,32.715738 ]
+    },
+    "properties": {
+    "State":"CA",
+    "Locations":"San Diego, CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2436849,34.0522342 ]
+    },
+    "properties": {
+    "State":"CA",
+    "Locations":"Los Angeles, CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.9381047,31.3011855 ]
+    },
+    "properties": {
+    "State":"Mexico",
+    "Locations":"Nogales, Mexico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1445155,34.1477849 ]
+    },
+    "properties": {
+    "State":"CA",
+    "Locations":"Pasadena, CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3320708,47.6062095 ]
+    },
+    "properties": {
+    "State":"WA",
+    "Locations":"Seattle, WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.9006951,47.0378741 ]
+    },
+    "properties": {
+    "State":"WA",
+    "Locations":"Olympia, WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0457538,42.331427 ]
+    },
+    "properties": {
+    "State":"MI",
+    "Locations":"Detroit, MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.555212,41.6639383 ]
+    },
+    "properties": {
+    "State":"OH",
+    "Locations":"Toledo, OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7648073,38.3644567 ]
+    },
+    "properties": {
+    "State":"IN",
+    "Locations":"Great Bend, IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.7388818,39.3253786 ]
+    },
+    "properties": {
+    "State":"WV",
+    "Locations":"Harpers Ferry, WV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8240663,34.2978794 ]
+    },
+    "properties": {
+    "State":"GA",
+    "Locations":"Gainesville, GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8866943,33.6890603 ]
+    },
+    "properties": {
+    "State":"SC",
+    "Locations":"Myrtle Beach, SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3792365,28.5383355 ]
+    },
+    "properties": {
+    "State":"FL",
+    "Locations":"Orland, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1917902,25.7616798 ]
+    },
+    "properties": {
+    "State":"FL",
+    "Locations":"Miami, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4571776,27.950575 ]
+    },
+    "properties": {
+    "State":"FL",
+    "Locations":"Tampa, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6267345,27.7518284 ]
+    },
+    "properties": {
+    "State":"FL",
+    "Locations":"St. Petersburg, FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.3340724,38.9517053 ]
+    },
+    "properties": {
+    "State":"MO",
+    "Locations":"Columbia, MO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8431267,35.2270869 ]
+    },
+    "properties": {
+    "State":"NC",
+    "Locations":"Charlotte, NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4360481,37.5407246 ]
+    },
+    "properties": {
+    "State":"VA",
+    "Locations":"Richmond, VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2883157,38.9981652 ]
+    },
+    "properties": {
+    "State":"VA",
+    "Locations":"Great Falls, VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0368707,38.9071923 ]
+    },
+    "properties": {
+    "State":"DC",
+    "Locations":"Washington, DC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0760137,38.7209454 ]
+    },
+    "properties": {
+    "State":"DE",
+    "Locations":"Rehoboth Beach, DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0469214,38.8048355 ]
+    },
+    "properties": {
+    "State":"VA",
+    "Locations":"Alexandria, VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6121893,39.2903848 ]
+    },
+    "properties": {
+    "State":"MD",
+    "Locations":"Baltimore, MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4105409,39.4142688 ]
+    },
+    "properties": {
+    "State":"MD",
+    "Locations":"Frederick, MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.454481,39.9511859 ]
+    },
+    "properties": {
+    "State":"PA",
+    "Locations":"Mill Run, PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1652215,39.9525839 ]
+    },
+    "properties": {
+    "State":"PA",
+    "Locations":"Philadelphia, PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1979458,39.9537358 ]
+    },
+    "properties": {
+    "State":"NJ",
+    "Locations":"Tom's River, NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1723667,40.735657 ]
+    },
+    "properties": {
+    "State":"NJ",
+    "Locations":"Newark, NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.134961,40.789142 ]
+    },
+    "properties": {
+    "State":"NY",
+    "Locations":"Long Island, NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9712488,40.7830603 ]
+    },
+    "properties": {
+    "State":"NY",
+    "Locations":"Manhattan, NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9441579,40.6781784 ]
+    },
+    "properties": {
+    "State":"NY",
+    "Locations":"Brooklyn, NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7948516,40.7282239 ]
+    },
+    "properties": {
+    "State":"NY",
+    "Locations":"Queens, NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.9278835,41.308274 ]
+    },
+    "properties": {
+    "State":"CT",
+    "Locations":"New Haven, CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4128343,41.8239891 ]
+    },
+    "properties": {
+    "State":"RI",
+    "Locations":"Providence, RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.6437397,41.204262 ]
+    },
+    "properties": {
+    "State":"NY",
+    "Locations":"Bedford, NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9798713,44.2794911 ]
+    },
+    "properties": {
+    "State":"NY",
+    "Locations":"Lake Placid, NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6672621,41.9584457 ]
+    },
+    "properties": {
+    "State":"MA",
+    "Locations":"Plymoth, MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0588801,42.3600825 ]
+    },
+    "properties": {
+    "State":"MA",
+    "Locations":"Boston, MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.2962408,41.6687897 ]
+    },
+    "properties": {
+    "State":"MA",
+    "Locations":"Cape Cod, MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2356113,42.3764852 ]
+    },
+    "properties": {
+    "State":"MA",
+    "Locations":"Waltham, MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5375718,43.2081366 ]
+    },
+    "properties": {
+    "State":"NH",
+    "Locations":"Concord, NH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.307869,43.7153482 ]
+    },
+    "properties": {
+    "State":"VT",
+    "Locations":"Norwich, VT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.2553259,43.661471 ]
+    },
+    "properties": {
+    "State":"ME",
+    "Locations":"Portland, ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2079809,46.8138783 ]
+    },
+    "properties": {
+    "State":"Canada",
+    "Locations":"Quebec City, Canada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.567256,45.5016889 ]
+    },
+    "properties": {
+    "State":"Canada",
+    "Locations":"Montreal, Canada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.6971931,45.4215296 ]
+    },
+    "properties": {
+    "State":"Canada",
+    "Locations":"Ottawa, Canada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3831843,43.653226 ]
+    },
+    "properties": {
+    "State":"Canada",
+    "Locations":"Toronto, Canada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.0849436,43.0895577 ]
+    },
+    "properties": {
+    "State":"Canada",
+    "Locations":"Niagara Falls, Canada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.6455475,26.5416093 ]
+    },
+    "properties": {
+    "State":"Bahamas",
+    "Locations":"Freeport, Bahamas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3027226,-8.477249 ]
+    },
+    "properties": {
+    "State":"Tanzania",
+    "Locations":"Mufindi, Tanzania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.2083284,-6.792354 ]
+    },
+    "properties": {
+    "State":"Tanzania",
+    "Locations":"Dar es Salaam, Tanzania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.7577605,8.9806034 ]
+    },
+    "properties": {
+    "State":"Ethiopia",
+    "Locations":"Addis Ababa, Ethiopia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.2707828,25.2048493 ]
+    },
+    "properties": {
+    "State":"UAE",
+    "Locations":"Dubai, United Arab Emirates"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.8951679,52.3702157 ]
+    },
+    "properties": {
+    "State":"Netherlands",
+    "Locations":"Amsterdam, Netherlands"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.9002778,61.2180556 ]
+    },
+    "properties": {
+    "State":"AK",
+    "Locations":"Anchorage, AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.5483333,59.6425 ]
+    },
+    "properties": {
+    "State":"AK",
+    "Locations":"Homer, AK"
+    }
+  },
+    {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.8045327,40.4571748 ]
+    },
+    "properties": {
+    "State":"CO",
+    "Locations":"Steamboat, CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0383518,39.4816537 ]
+    },
+    "properties": {
+    "State":"CO",
+    "Locations":"Breckenridge, CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.990251,39.7392358 ]
+    },
+    "properties": {
+    "State":"CO",
+    "Locations":"Denver, CO"
+    }
+  }
+
+]
+}
+);
